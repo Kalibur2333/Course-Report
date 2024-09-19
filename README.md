@@ -56,7 +56,7 @@ This project is a **React + PHP** web application that displays a list of course
 2. **Create a MySQL database**:
    - Create a database called `course_report` in phpMyAdmin (or any other MySQL client).
 3. **Create the database tables**:
-   Use MindAtlas_CourseReport_MySQL.sql to create the required tables and add sample data
+   Use `MindAtlas_CourseReport_MySQL.sql` to create the required tables and add sample data
 
 ### 3. Running the PHP Server
 
