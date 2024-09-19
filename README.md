@@ -20,13 +20,11 @@ This project is a **React + PHP** web application that displays a list of course
 
 ## Working Examples
 ![0185df29f5553bc2d431c6b0c9d530b](https://github.com/user-attachments/assets/af12f2fb-689d-4022-a54c-4279291e6a7b)
-- **Search**
+**Search**
 ![7c156e3b9f504bd74ae4cc81b484d53](https://github.com/user-attachments/assets/1646b920-9e91-4e14-afd5-f75905adb0bf)
-
 ![80f0a12bf145f882d815329440b35be](https://github.com/user-attachments/assets/3426376b-b272-4868-9f0d-b1224a36eedd)
-- **Sort**
+**Sort**
 ![e970b50c75141eab56b598e8d125029](https://github.com/user-attachments/assets/4af153ce-044d-41c2-a3c4-d7f62d2d1e2c)
-
 ![f3d9aa4c1784c6b7910354084374e8d](https://github.com/user-attachments/assets/b96dfd17-ba90-4c4e-acc5-82bdee744856)
 
 
